@@ -1,0 +1,4 @@
+
+Linker: glfw3.lib;opengl32.lib;User32.lib;Gdi32.lib;Shell32.lib
+Library: $(SolutionDir)Dependencies\GLFW\lib-vc2019
+C+/Include:$(SolutionDir)Dependencies\GLFW\include
